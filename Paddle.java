@@ -21,3 +21,4 @@ public class Paddle extends GameObject {
         return "Paddle [x=" + getX() + ", y=" + getY() + ", speed=" + speed + "]";
     }
 }
+//test
