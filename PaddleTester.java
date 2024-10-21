@@ -5,9 +5,9 @@ public class PaddleTester {
         System.out.println("Initial state: " + paddle);
         
         paddle.moveLeft();
-        System.out.println("After moving left: " + paddle);
+        System.out.println("Move left: " + paddle);
         
         paddle.moveRight();
-        System.out.println("After moving right: " + paddle);
+        System.out.println("Move right: " + paddle);
     }
 }
